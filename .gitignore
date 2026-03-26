@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Generated artifacts (produced when the skill maps itself)
+architecture-map.json
+project-map.html
+project-map-review.html
+
+# Local settings
+.claude/
